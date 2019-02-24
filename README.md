@@ -45,7 +45,7 @@ URL fragments (sometimes also called an anchor tag) have been used to automatica
 
 ![snake](https://github.com/ohtejera/itty-bitty-games/blob/master/img/snake.png?raw=true)
 
-**Author:** Hampus NilssonBlog About
+**Author:** Hampus Nilsson
 
 **Description:** https://hjnilsson.com/2018/03/31/snake-in-pure-html-part-1/
 

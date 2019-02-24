@@ -39,7 +39,7 @@ z.fillRect(s=0,0,n=150,x=11325);setInterval("0<x%n&x<n*n&(z[x+=[1,-n,-1,n][e.whi
 * the tron start in the center, facing any direction.
 * the game controls are **i**, **j**, **k**, **l**.
 
-[Play it now!](https://itty.bitty.site/#tron/data:text/html;charset=utf-8;bxze64,XQAAAALwAAAAAAAAAAAeGgqG70rXGSUZcKxw9jLQWrkCfoDYy4TmYXeA4oG0PIELKuxxx4DEhoriHzWNKiyL46z8/NeP9umAinV88IUti0r3/9t2c/aMKYEqAtgQRbPGz5ebQTkrq4Ra0ZUZ4anv8sKNW30XKxw4zvUNzpR1I2uqf9MK3bq+vusQuyt7TK2HLM15IkxDTEF2YUBqXxd0wBwBCzic2WzqSLXhRhFRhBdHstbsQLEsBjbAc91kmtWyorMwPAETqJeoU+KZhV0rgehLsFKiAqpvP7cNN38ea7Puk0H/+a9Kug==)
+[Play it now!](https://ohtejera.github.io/itty-bitty-games/#tron/data:text/html;charset=utf-8;bxze64,XQAAAALwAAAAAAAAAAAeGgqG70rXGSUZcKxw9jLQWrkCfoDYy4TmYXeA4oG0PIELKuxxx4DEhoriHzWNKiyL46z8/NeP9umAinV88IUti0r3/9t2c/aMKYEqAtgQRbPGz5ebQTkrq4Ra0ZUZ4anv8sKNW30XKxw4zvUNzpR1I2uqf9MK3bq+vusQuyt7TK2HLM15IkxDTEF2YUBqXxd0wBwBCzic2WzqSLXhRhFRhBdHstbsQLEsBjbAc91kmtWyorMwPAETqJeoU+KZhV0rgehLsFKiAqpvP7cNN38ea7Puk0H/+a9Kug==)
 
 
 

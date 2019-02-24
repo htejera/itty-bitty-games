@@ -30,9 +30,8 @@ URL fragments (sometimes also called an anchor tag) have been used to automatica
 **Description:** https://www.quaxio.com/tron/
 
 **Code**:
-```html
-<html><body id=b onkeyup=e=event onload=z=c.getContext('2d');
-z.fillRect(s=0,0,n=150,x=11325);setInterval("0<x%n&x<n*n&(z[x+=[1,-n,-1,n][e.which&3]]^=1)?z.clearRect(x%n,x/n,1,1,s++):b.innerHTML='gameover:'+s",9)><canvas id=c></body></html> 
+```
+#tron/data:text/html;charset=utf-8;bxze64,XQAAAALwAAAAAAAAAAAeGgqG70rXGSUZcKxw9jLQWrkCfoDYy4TmYXeA4oG0PIELKuxxx4DEhoriHzWNKiyL46z8/NeP9umAinV88IUti0r3/9t2c/aMKYEqAtgQRbPGz5ebQTkrq4Ra0ZUZ4anv8sKNW30XKxw4zvUNzpR1I2uqf9MK3bq+vusQuyt7TK2HLM15IkxDTEF2YUBqXxd0wBwBCzic2WzqSLXhRhFRhBdHstbsQLEsBjbAc91kmtWyorMwPAETqJeoU+KZhV0rgehLsFKiAqpvP7cNN38ea7Puk0H/+a9Kug==
 ```
 
 **Controls**
